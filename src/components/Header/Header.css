@@ -1,7 +1,7 @@
 .container{
     padding:50px 30px;
     text-align: center;
-    width:100%;
+    width:96%;
     display:flex;
     align-items: center;
     justify-content: space-evenly;
@@ -47,7 +47,7 @@
     .container{
         padding:50px 30px;
         text-align: center;
-        width:70%;
+        width:84%;
         display:flex;
         align-items: center;
         flex-direction: column;
