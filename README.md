@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+<h1>Hi! This is <b> Vijay M D</b></h1>
+
+
 
 This project was created using React.js
 
-## Available Scripts
+
 
 In the project directory, you can run:
 
@@ -16,4 +18,5 @@ You may also see any lint errors in the console.
 
 
 <h2>Live site link<h2/>
+  
 https://resume-generator-vijaymd.netlify.app/
