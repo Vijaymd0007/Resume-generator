@@ -1,6 +1,11 @@
 <h1>Hi! This is <b> Vijay M D</b></h1>
 
 
+<h2> Site live @<h2/>
+  
+https://resume-generator-vijaymd.netlify.app/
+
+
 
 This project was created using React.js
 
@@ -17,6 +22,3 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
-<h2>Live site link<h2/>
-  
-https://resume-generator-vijaymd.netlify.app/
